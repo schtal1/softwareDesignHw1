@@ -1,0 +1,40 @@
+<Root>
+    <Client Id="123">
+        <Payment>
+            <Id>ab</Id>
+            <Amount>10</Amount>
+        </Payment>
+        <Payment>
+            <Id>abc</Id>
+            <Amount>3</Amount>
+        </Payment>
+        <Payment>
+            <Id>abc</Id>
+            <Amount>5</Amount>
+        </Payment>
+        <Payment>
+            <Id>ef</Id>
+            <Amount>1</Amount>
+        </Payment>
+        <Payment>
+            <Id>ab</Id>
+            <Amount>9</Amount>
+        </Payment>
+    </Client>
+    <Client Id="456">
+        <Payment>
+            <Id>abc</Id>
+            <Amount>3</Amount>
+        </Payment>
+        <Payment>
+            <Id>ef</Id>
+            <Amount>10</Amount>
+        </Payment>
+    </Client>
+    <Client Id="123">
+        <Payment>
+            <Id>ab</Id>
+            <Amount>5</Amount>
+        </Payment>
+    </Client>
+</Root>

@@ -1,0 +1,18 @@
+<Root>
+  <Client Id="123">
+    <Payment>
+      <Id>Foobar</Id>
+      <Amount>10</Amount>
+    </Payment>
+    <Payment>
+      <Id>Moobar</Id>
+      <Amount>3</Amount>
+    </Payment>
+  </Client>
+  <Client Id="123">
+    <Payment>
+      <Id>Boobar</Id>
+      <Amount>5</Amount>
+    </Payment>
+  </Client>
+</Root>
